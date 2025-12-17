@@ -9,4 +9,4 @@ Work Organizer is a powerful yet simple Java console application designed to hel
 
 * Mark tasks as completed
 
-* Save tasks to a file (loading can be added)
+* Save tasks to a file 
