@@ -1,9 +1,7 @@
 # **WORK ORGANIZER**
-Work Organizer is a Java console app to help you manage tasks efficiently. Add tasks with a title, category, due date, and priority, view all or pending tasks sorted by urgency, and mark tasks complete.
+Work Organizer is a powerful yet simple Java console application designed to help you manage your tasks efficiently. It lets you add tasks with titles, categories, due dates, and priority levels, view all or pending tasks sorted by urgency, and mark tasks as completed. Built with object-oriented principles, enums, and Java Streams, it demonstrates clean, modular design while keeping your daily schedule organized and your productivity on track.
 
-Built with Java OOP, enums, and streams, it demonstrates clean design while keeping your schedule organized.
-
-Features
+# **Features**
 
 Add tasks with title, category, due date, and priority (HIGH, MEDIUM, LOW)
 
