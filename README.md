@@ -3,10 +3,10 @@ Work Organizer is a powerful yet simple Java console application designed to hel
 
 # **Features**
 
-Add tasks with title, category, due date, and priority (HIGH, MEDIUM, LOW)
+* Add tasks with title, category, due date, and priority (HIGH, MEDIUM, LOW)
 
-View all tasks or pending tasks sorted by priority & due date
+* View all tasks or pending tasks sorted by priority & due date
 
-Mark tasks as completed
+* Mark tasks as completed
 
-Save tasks to a file (loading can be added)
+* Save tasks to a file (loading can be added)
